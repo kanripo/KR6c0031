@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:39.448643
+#+DATE: 2015-08-30 19:44:40.305777
 #+TITLE: 金剛般若波羅蜜經論
 #+PROPERTY: CBETA_ID T25n1510b
 #+PROPERTY: ID KR6c0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1510b
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0031_T_003-0776b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 
 <pb:KR6c0031_T_003-0776c>¶
 ¶
-
- 《金剛般若波羅蜜經論》卷下¶
+《金剛般若波羅蜜經論》卷下¶
 ¶
 無著菩薩造¶
 隋南天竺三藏法師達摩岌多譯¶

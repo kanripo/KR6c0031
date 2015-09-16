@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:39.397832
+#+DATE: 2015-08-30 19:44:40.253648
 #+TITLE: 金剛般若波羅蜜經論
 #+PROPERTY: CBETA_ID T25n1510b
 #+PROPERTY: ID KR6c0031
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1510b
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0031_T_001-0766b> 
 #+PROPERTY: JUAN 1
 ¶
-
- 《金剛般若波羅蜜經論》卷上(亦名金剛¶
+《金剛般若波羅蜜經論》卷上(亦名金剛¶
 能斷般若)¶
 ¶
 無著菩薩造¶
@@ -90,7 +89,7 @@
 八甚深住處。於中攝住處者。謂發心。波羅¶
 蜜淨住處者。謂波羅蜜相應行。欲住處者。¶
 謂欲得色身法身。離障礙住處者。謂餘十¶
-二種。淨心住處者。謂證道。究竟住處者。謂¶
+二種。淨心住處者。謂燈道。究竟住處者。謂¶
 上求佛地。廣大及甚深住處者。通一切住¶
 處。於初住處中。若說菩薩應生如是心所¶
 有眾生如是等。此為廣大。又復說言。若菩¶
